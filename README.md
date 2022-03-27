@@ -50,6 +50,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 - ()Vendor Marketplace "StreamPay" features
 - ()Stream API
+- (x)Stream Token (Solana, SPL standard)
 - (x)The Brand & Logo design
 - ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
