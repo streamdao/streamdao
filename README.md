@@ -13,7 +13,10 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - Stream Payment Gateway (WooCommerce, Shopify, Magento)
 - Stream Charity
 - Stream Donate
+- StreamSwap
+- StreamDAO: Governance
 - Stream "NFT" Marketplace
+- Stream Aggregator
 - "Token" Streaming Protocol
 - NFT Ticketing Platform
 - NFT Bills & Payroll
@@ -22,5 +25,18 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 ### ToDo
 
 - Vendor Marketplace "StreamPay" features
+- Stream API
+- StreamSwap platform: Staking, swap, liquidity pool
+- "Solana" Smart Contracts & Programs
 - Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
 - StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
+- SolanaPay implementation
+- Partnership Program
+- Governance & Voting Mechanism
+- Tokenomics, distribution & Vesting
+- Blockchain & dApp Architectures
+- Website´s developments
+- Graphic & UI/UX design
+- Illustrations
+
+Etc..
