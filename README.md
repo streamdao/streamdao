@@ -26,7 +26,6 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - NFT minting and management
 
 
-
 ## Important needs!
 
 - ()Building The Team
@@ -36,6 +35,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()UI/UX Designers & Developers
 - ()Graphic Designers
 - ()Social Media/Blog & Technical Writer
+- ()Business Partners, Solana & Solana Foundation, Raydium, Serum, Alameda Research, Jupiter Aggregator, Bonfida, etc..
 - ()Brand Identity Manager
 - ()Company registration
 - ()Legals & Documentation
@@ -56,6 +56,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
 - ()SolanaPay implementation
 - ()Partnership Program
+- ()Smart Contract Audit
 - ()Governance & Voting Mechanism
 - ()Tokenomics, distribution & Vesting
 - ()Blockchain & dApp Architectures
