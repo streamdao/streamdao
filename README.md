@@ -24,13 +24,13 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - NFT Bills & Payroll
 - SPL minting and management
 - NFT minting and management
-- Ecosystem integrations
 
 
 ### ToDo
 
 - ()Vendor Marketplace "StreamPay" features
 - ()Stream API
+- ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
 - ()StreamSwap platform: Staking, swap, liquidity pool
 - ()"Solana" Smart Contracts & Programs
