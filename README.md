@@ -27,13 +27,21 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 
 
-## Important!
+## Important needs!
 
-- ()Building the team
+- ()Building The Team
+- ()Blockchain Architects & Developers
+- ()Smart Contract; Solana & Rust developers
+- ()Business Developers
+- ()UI/UX Designers & Developers
+- ()Graphic Designers
+- ()Social Media/Blog & Technical Writer
+- ()Brand Identity Manager
 - ()Company registration
 - ()Legals & Documentation
 - ()Banking & Accounts
-- ()Financials
+- ()Financial
+- ()Lawyer; "DAO, Blockchain, ICO, Token Sale & Legal Terms"
 - ()Advisors
 
 ### ToDo
