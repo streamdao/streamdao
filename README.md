@@ -37,6 +37,8 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - Blockchain & dApp Architectures
 - Website´s developments
 - Graphic & UI/UX design
-- Illustrations
+- Whitepaper & Technical Docs
+- Token utility, use cases and value
+- Brand design & Illustrations
 
 Etc..
