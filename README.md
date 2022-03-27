@@ -16,3 +16,9 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - "Token" Streaming Protocol
 - NFT Ticketing Platform
 - NFT Bills & Payroll
+
+
+### ToDo
+
+- Vendor Marketplace "StreamPay" features
+- Demo Shop "StreamPay" features
