@@ -30,8 +30,9 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 - ()Building The Team
 - ()Blockchain Architects & Developers
-- ()Smart Contract; Solana & Rust developers
+- ()Smart Contract Developers
 - ()Business Developers
+- ()React, Flutter, TypeScript, JavaScript, Go, Next, Rust & Node Developers
 - ()UI/UX Designers & Developers
 - ()Graphic Designers
 - ()Social Media/Blog & Technical Writer
@@ -62,6 +63,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()Blockchain & dApp Architectures
 - ()Website´s developments
 - ()Graphic & UI/UX design
+- (x)Version Control: GitHub
 - ()Whitepaper & Technical Docs
 - ()Token utility, use cases and value
 - ()Brand design & Illustrations
