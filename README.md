@@ -29,6 +29,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 ### ToDo
 
 - ()Vendor Marketplace "StreamPay" features
+- Building the team
 - ()Stream API
 - ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
