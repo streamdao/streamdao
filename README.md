@@ -18,6 +18,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - StreamDAO: Governance
 - Stream "NFT" Marketplace
 - Stream Aggregator
+- Treasury Management Platform
 - "Token" Streaming Protocol
 - NFT Ticketing Platform
 - NFT Bills & Payroll
