@@ -27,6 +27,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 - Vendor Marketplace "StreamPay" features
 - Stream API
+- StreamDAO: Solana Realm
 - StreamSwap platform: Staking, swap, liquidity pool
 - "Solana" Smart Contracts & Programs
 - Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
