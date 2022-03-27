@@ -15,4 +15,4 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - Stream "NFT" Marketplace
 - "Token" Streaming Protocol
 - NFT Ticketing Platform
-- NFT bills & payroll
+- NFT Bills & Payroll
