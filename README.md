@@ -1,4 +1,4 @@
-### StreamDAO
+### StreamDAO Overview
 
 StreamDAO´s Stream "Payment" Protocol building the suite of treasury management, payroll and payments products and services that nearly every web3 company will need.
 
