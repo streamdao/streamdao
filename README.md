@@ -22,6 +22,9 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - "Token" Streaming Protocol
 - NFT Ticketing Platform
 - NFT Bills & Payroll
+- SPL minting and management
+- NFT minting and management
+- Ecosystem integrations
 
 
 ### ToDo
