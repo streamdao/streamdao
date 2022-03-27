@@ -48,5 +48,6 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()Pitch Deck
 - ()Social Media
 - ()How to collect fees "programs"
+- ()Developers "Slack, Discord"
 
 Etc..
