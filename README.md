@@ -44,11 +44,13 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()Financial
 - ()Lawyer; "DAO, Blockchain, ICO, Token Sale & Legal Terms"
 - ()Advisors
+- ()To build community
 
 ### ToDo
 
 - ()Vendor Marketplace "StreamPay" features
 - ()Stream API
+- (x)The Brand & Logo design
 - ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
 - ()StreamSwap platform: Staking, swap, liquidity pool
@@ -61,7 +63,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()Governance & Voting Mechanism
 - ()Tokenomics, distribution & Vesting
 - ()Blockchain & dApp Architectures
-- ()Website´s developments
+- ()Website´s developments "under construction"
 - ()Graphic & UI/UX design
 - (x)Version Control: GitHub
 - ()Whitepaper & Technical Docs
@@ -72,7 +74,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()Business & Marketing plan
 - ()Legals: Privacy Policy, Terms of Use & Token Sake Terms
 - ()Pitch Deck
-- ()Social Media
+- (x)Social Media; Twitter
 - ()Technical Writer & Blogger
 - ()How to collect fees "programs"
 - ()Developers "Slack, Discord"
