@@ -9,6 +9,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 Stream Payment Protocol & Features:
 
 - StreamPay
+- StreamPOS (point-of-sale)
 - Stream Charity
 - Stream Donate
 - Stream "NFT" Marketplace
