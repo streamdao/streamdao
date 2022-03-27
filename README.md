@@ -10,6 +10,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 - StreamPay
 - StreamPOS (point-of-sale)
+- Stream Payment Gateway (WooCommerce, Shopify, Magento)
 - Stream Charity
 - Stream Donate
 - Stream "NFT" Marketplace
@@ -21,4 +22,5 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 ### ToDo
 
 - Vendor Marketplace "StreamPay" features
-- Demo Shop "StreamPay" features
+- Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
+- StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
