@@ -26,10 +26,19 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - NFT minting and management
 
 
+
+## Important!
+
+- ()Building the team
+- ()Company registration
+- ()Legals & Documentation
+- ()Banking & Accounts
+- ()Financials
+- ()Advisors
+
 ### ToDo
 
 - ()Vendor Marketplace "StreamPay" features
-- Building the team
 - ()Stream API
 - ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
@@ -50,6 +59,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - ()ICO/STO/IDO - Token Sales
 - ()Token Listing Decentalized Exchanges
 - ()Business & Marketing plan
+- ()Legals: Privacy Policy, Terms of Use & Token Sake Terms
 - ()Pitch Deck
 - ()Social Media
 - ()Technical Writer & Blogger
