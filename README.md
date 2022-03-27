@@ -25,25 +25,28 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 
 ### ToDo
 
-- Vendor Marketplace "StreamPay" features
-- Stream API
-- StreamDAO: Solana Realm
-- StreamSwap platform: Staking, swap, liquidity pool
-- "Solana" Smart Contracts & Programs
-- Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
-- StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
-- SolanaPay implementation
-- Partnership Program
-- Governance & Voting Mechanism
-- Tokenomics, distribution & Vesting
-- Blockchain & dApp Architectures
-- Website´s developments
-- Graphic & UI/UX design
-- Whitepaper & Technical Docs
-- Token utility, use cases and value
-- Brand design & Illustrations
-- Business plan
-- Pitch Deck
-- How to collect fees "programs"
+- ()Vendor Marketplace "StreamPay" features
+- ()Stream API
+- ()StreamDAO: Solana Realm
+- ()StreamSwap platform: Staking, swap, liquidity pool
+- ()"Solana" Smart Contracts & Programs
+- ()Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
+- ()StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
+- ()SolanaPay implementation
+- ()Partnership Program
+- ()Governance & Voting Mechanism
+- ()Tokenomics, distribution & Vesting
+- ()Blockchain & dApp Architectures
+- ()Website´s developments
+- ()Graphic & UI/UX design
+- ()Whitepaper & Technical Docs
+- ()Token utility, use cases and value
+- ()Brand design & Illustrations
+- ()ICO/STO/IDO - Token Sales
+- ()Token Listing Decentalized Exchanges
+- ()Business & Marketing plan
+- ()Pitch Deck
+- ()Social Media
+- ()How to collect fees "programs"
 
 Etc..
