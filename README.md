@@ -14,6 +14,7 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - Stream Charity
 - Stream Donate
 - StreamSwap
+- Stream Protocol "blockchain"
 - StreamDAO: Governance
 - Stream "NFT" Marketplace
 - Stream Aggregator
