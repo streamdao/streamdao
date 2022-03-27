@@ -41,5 +41,6 @@ Real-time Online Payments with Cryptocurrencies are the next big step in making 
 - Whitepaper & Technical Docs
 - Token utility, use cases and value
 - Brand design & Illustrations
+- Collect fees
 
 Etc..
