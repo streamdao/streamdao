@@ -1,16 +1,61 @@
-### StreamDAO Overview
+# StreamDAO Overview
 
-StreamDAO´s Stream "Payment" Protocol building the suite of treasury management, payroll and payments products and services that nearly every web3 company will need.
+Stream Payment Protocol is an open, and free-to-use payments framework built on Solana — the world’s most performant web3 ecosystem. StreamDAO building the suite of treasury management, payroll and payments products and services that nearly every web3 company will need. Real-time Online Payments with Cryptocurrencies are the next big step in making Cryptocurrencies mainstream. With help of Cryptocurrency Payments any user can make transactions much faster across globe enabling trustless environment but most of the Software-As-A-Service (Saas) companies uses the concept of continuous and autonomous Payments popularly known as Recurring Payments in their business model however this isn’t currently available in crypto space hence was born StreamDAO.
 
-Real-time Online Payments with Cryptocurrencies are the next big step in making Cryptocurrencies mainstream. With help of Cryptocurrency Payments any user can make transactions much faster across globe enabling trustless environment but most of the Software-As-A-Service (Saas) companies uses the concept of continuous and autonomous Payments popularly known as Recurring Payments in their business model however this isn’t currently available in crypto space hence was born StreamDAO.
+### Members
+
+This organization has no public members. You must be a member to see who’s a part of this organization.
+
+## Project Websites
+
+#### Official: 
+https://streamdao.org
+
+#### StreamPay Demo Shop: 
+Alpha version https://streampay.shop/
+
+
+## Solutions
+
+### Overview
+Streaming payments protocol built on Solana. Real-time streaming can be loosely translated as a constant flow of assets from one wallet to another every second. It makes transactions much faster and also enables a trustless environment.
+
+### StreamPay & Wallet App
+
+StreamPay is a Mobile-first project on Solana Pay, crypto and stable coins payments, Donate, Loyalty program on-chain, and NFT billing. This could change the obsolete ways used nowadays which involve setting transactions, setting agreements, and hence open up many possibilities in recurring transactions, micro-consultation services, and other engagements where time is money.
+
+StreamPay is non-custodial, open-source, cross-platform (Only Windows and Android for now), wallet for Solana Blockchain with Solana Pay integration, NFTs, multiple wallets, optional watch-only wallets, connect to any network...
+
+Source code: https://github.com/streamdao/stream-wallet
+
+### Stream Payment Gateway
+
+Stream Payment Gateway processing platform for cryptocurrencies - allows anyone to accept payments on their websites, online shops, and decentralized apps. StreamPay Currently Supports USDC, Stream Token on Solana, and Phantom Wallet. 
+
+##### Supported Web Plugins:
+
+- Stream Payment Plugin on WooCommerce Stores
+
+### StreamPOS
+
+
+
+
+### Stream Donate & Charity Platform
+
+StreamPay "Donate" is a checkout donations platform built on Solana Pay
+
+### NFT Ticketing Platform
+
+### NFT Marketplace
+
 
 ### Token Contract
 
 https://solscan.io/token/5P3giWpPBrVKL8QP8roKM7NsLdi3ie1Nc2b5r9mGtvwb
 
-### Solutions
 
-##### Stream Payment Protocol & Features:
+## Stream Payment Protocol "Main" Features:
 
 - StreamPay
 - StreamPOS (point-of-sale)
@@ -54,17 +99,19 @@ https://solscan.io/token/5P3giWpPBrVKL8QP8roKM7NsLdi3ie1Nc2b5r9mGtvwb
 
 - ()Vendor Marketplace "StreamPay" features
 - ()Stream API
+- ()Escrow Smart Contract and Program (SteamPay/StreamPOS)
+Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
 - (x)Stream Token (Solana, SPL standard)
 - (x)The Brand & Logo design
 - ()Ecosystem integrations
 - ()StreamDAO: Solana Realm
 - ()StreamSwap platform: Staking, swap, liquidity pool
 - ()"Solana" Smart Contracts & Programs
-- ()Demo Shop + Stream Payment Gateway: SOL, USDC, STREAM" payment features
+- ()Demo Shop + Stream Payment Gateway: SOL, USDC, STRM "Stream Token" payment features
 - ()StreamPay mobile application "Crypto, IBAN, and Stream Token implementation"
 - ()SolanaPay implementation
-- ()Partnership Program
-- ()Smart Contract Audit
+- ()Partnership Programs
+- ()Smart Contract Audits
 - ()Governance & Voting Mechanism
 - ()Tokenomics, distribution & Vesting
 - ()Blockchain & dApp Architectures
