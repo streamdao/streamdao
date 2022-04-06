@@ -38,7 +38,7 @@ Stream Payment Gateway processing platform for cryptocurrencies - allows anyone 
 
 ### StreamPOS
 
-
+Solana’s blockchain can easily be included in the list of the most innovative ones. The network is also one of the most rapidly developing ones, and there are already more than 500 projects deployed on Solana, including from the DeFi and NFT segments. At the same time, Solana also has its utility token SOL that, thanks to its blockchain, delivers excellent performance in terms of speed of transactions. This makes SOL a great payment option for businesses that want to benefit from cryptocurrency payments. StreamPOS "Point-of-Sale" terminal is the revolutionary solution for accepting Solana as payment.
 
 
 ### Stream Donate & Charity Platform
