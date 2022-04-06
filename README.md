@@ -4,6 +4,10 @@ StreamDAO´s Stream "Payment" Protocol building the suite of treasury management
 
 Real-time Online Payments with Cryptocurrencies are the next big step in making Cryptocurrencies mainstream. With help of Cryptocurrency Payments any user can make transactions much faster across globe enabling trustless environment but most of the Software-As-A-Service (Saas) companies uses the concept of continuous and autonomous Payments popularly known as Recurring Payments in their business model however this isn’t currently available in crypto space hence was born StreamDAO.
 
+### Token Contract
+
+https://solscan.io/token/5P3giWpPBrVKL8QP8roKM7NsLdi3ie1Nc2b5r9mGtvwb
+
 ### Solutions
 
 ##### Stream Payment Protocol & Features:
