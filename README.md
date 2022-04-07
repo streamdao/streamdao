@@ -9,7 +9,7 @@ This organization has no public members. You must be a member to see who’s a p
 ## Project Websites
 
 #### Official: 
-https://streamdao.org
+https://streamdao.org/home/
 
 #### StreamPay Demo Shop: 
 Alpha version https://streampay.shop/
