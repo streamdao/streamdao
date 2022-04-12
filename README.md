@@ -9,10 +9,14 @@ This organization has no public members. You must be a member to see who’s a p
 ## Project Websites
 
 #### Official: 
-https://streamdao.org/home/
+https://streamdao.org/home/ 
 
 #### StreamPay Demo Shop: 
-Alpha version https://streampay.shop/
+https://streampay.shop/ MVP
+
+### NFT marketplace
+
+https://nft-marketplace.streamprotocol.org (under contruction)
 
 
 ## Solutions
